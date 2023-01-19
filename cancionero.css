@@ -11843,7 +11843,7 @@ textarea.form-control-lg {
 
 
 .gsc-control-cse {
-    padding: 0;
+    padding: 0 !important;
 }
 
 
