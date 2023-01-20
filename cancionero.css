@@ -11842,6 +11842,16 @@ textarea.form-control-lg {
 
 
 
+
+
+
+
+
+.navbar {
+  --bs-navbar-padding-y: 0;
+  --bs-navbar-brand-font-size: 1rem;
+}
+
 .gsc-control-cse {
     padding: 0 !important;
 }
@@ -11981,5 +11991,5 @@ audio{
 
 
 @media (max-width: 599.98px){html {font-size: 4vw;}}
-@media (min-width: 600px){html {font-size: 18.0pt;}}
-@media (min-width: 992px){html {font-size: 14pt}}
+@media (min-width: 600px and max-width: 991.98px){html {font-size: 18.0pt;}}
+@media (min-width: 992px){html {font-size: 12pt}}
