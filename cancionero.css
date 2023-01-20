@@ -11900,7 +11900,7 @@ pre {
   margin-top: 1rem;
   margin-bottom: 1rem;
   background-image: url('https://fjcerdav.github.io/files/header.jpg');
-  background-attachment: fixed;  
+  background-position: center center;  
   background-size: cover;
 }
 
