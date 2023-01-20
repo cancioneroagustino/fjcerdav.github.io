@@ -11849,7 +11849,7 @@ textarea.form-control-lg {
 
 .navbar {
   --bs-navbar-padding-y: 0;
-  --bs-navbar-brand-font-size: 1rem;
+  --bs-navbar-brand-font-size: 24px;
 }
 
 .gsc-control-cse {
