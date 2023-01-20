@@ -11891,12 +11891,17 @@ pre {
     overflow: hidden;
 	font-size:1rem;
 }
-
 .portada {
-	font-size: 3rem;
-	text-align: center;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-image: url('https://fjcerdav.github.io/files/header.jpg');
+  background-attachment: fixed;  
+  background-size: cover;
 }
 
 .seccion {
