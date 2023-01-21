@@ -11887,9 +11887,9 @@ pre {
     margin-left: .5rem;
     margin-right: .5rem;
     margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 3rem;
     overflow: hidden;
-	font-size:1rem;
+    font-size:1rem;
 }
 .portada {
   color: white;
@@ -11995,6 +11995,5 @@ audio{
 
 
 
-@media (max-width: 599.98px){html {font-size: 4vw;}}
-@media (min-width: 600px) and (max-width: 991.98px){html {font-size: 18.0pt;}}
+@media (max-width: 991.98px){html {font-size: 3.8vw;}}
 @media (min-width: 992px){html {font-size: 12pt}}
