@@ -11952,6 +11952,10 @@ h2 {
     color:#2159D6;
 }
 
+.partpdf {
+	width: 100%;
+	min-height: 100vh;
+}
 
 span.c {
     color:#000055;
