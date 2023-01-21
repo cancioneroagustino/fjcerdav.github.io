@@ -11856,6 +11856,9 @@ textarea.form-control-lg {
     padding: 0 !important;
 }
 
+body {
+	padding-top: 34px;
+	}
 
 .btn-primary {
   --bs-btn-bg: #1155cc;
