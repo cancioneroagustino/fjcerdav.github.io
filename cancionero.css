@@ -11856,9 +11856,6 @@ textarea.form-control-lg {
     padding: 0 !important;
 }
 
-body {
-	padding-top: 48px;
-	}
 
 .btn-primary {
   --bs-btn-bg: #1155cc;
@@ -11898,8 +11895,7 @@ pre {
   color: white;
   font-size: 3rem;
   text-align: center;
-		margin-top: 0;
-		padding-top: 2rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
